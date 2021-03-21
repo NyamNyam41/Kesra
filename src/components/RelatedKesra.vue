@@ -19,7 +19,7 @@
                             <div class="pi-text">
                                 <div class="catagory-name">Desain</div>
                                 <a href="#">
-                                    <h5>Packaging Makanan Ringan (1pcs)</h5>
+                                    <h5>Packaging Bento</h5>
                                 </a>
                                 <div class="product-price">
                                     Rp.15.000,-
@@ -37,9 +37,9 @@
                                 </ul>
                             </div>
                             <div class="pi-text">
-                                <div class="catagory-name">Reparasi</div>
+                                <div class="catagory-name">Desain</div>
                                 <a href="#">
-                                    <h5>Reparasi Laptop Segala Kendala</h5>
+                                    <h5>Packaging Mug/Gelas</h5>
                                 </a>
                                 <div class="product-price">
                                     Mulai dari Rp.30.000,-
@@ -59,7 +59,7 @@
                             <div class="pi-text">
                                 <div class="catagory-name">Desain</div>
                                 <a href="#">
-                                    <h5>Desain Dashboard Admin Website (1 Page)</h5>
+                                    <h5>Packaging Onigiri</h5>
                                 </a>
                                 <div class="product-price">
                                     Rp.60.000,-
@@ -77,9 +77,9 @@
                                 </ul>
                             </div>
                             <div class="pi-text">
-                                <div class="catagory-name">Foto & Video</div>
+                                <div class="catagory-name">Desain</div>
                                 <a href="#">
-                                    <h5>Video Konten Ig atau Youtube (1 Menit)</h5>
+                                    <h5>Packaging Minuman</h5>
                                 </a>
                                 <div class="product-price">
                                     Rp.75.000,-
